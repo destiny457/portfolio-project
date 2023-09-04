@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	margin-top: 70px;
+	background-color: #DAFFFB;
+}
+h1 {
+	color: green;
+}
+
+.joe-img {
+	border-radius: 100%;
+}
+
+.w3-btn {
+	margin: 10px;
+	background-color: black;
+	color: white;
+	padding: 5px;
+	border-radius: 10%;
+	border: 5px solid black;
+}
